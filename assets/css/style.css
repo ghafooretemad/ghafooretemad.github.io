@@ -42,6 +42,16 @@ a:hover {
 .pl-2{
   padding-left: 1rem;
 }
+.title-right{
+  text-align: right;
+}
+.background-shadow{
+  background-color:rgba(178, 191, 221, 0.58);
+}
+.color-date{
+  color: rgb(29, 74, 172);
+
+}
 .color-a {
   text-decoration: none;
   color: #0078ff;
